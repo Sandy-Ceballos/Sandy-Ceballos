@@ -7,3 +7,5 @@
 • 🌱 actualmente estoy codificando en Javascript, CSS# y HTML.
 
 • ❓ estoy enamorado de la codificación de Discord Bots, ¡también me encanta ayudar!.
+
+PRONTO TRAERE MAS INFO DE MI TRABAJO...
