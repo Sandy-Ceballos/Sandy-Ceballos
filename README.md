@@ -4,7 +4,7 @@
 
 • 🔭 Actualmente estoy trabajando en un bot con multifunciones.
 
-• 🌱 actualmente estoy codificando en Javascript, CSS# y HTML.
+• 🌱 actualmente estoy codificando en Javascript, CSS#, C# y HTML.
 
 • ❓ estoy enamorado de la codificación de Discord Bots, ¡también me encanta ayudar!.
 
